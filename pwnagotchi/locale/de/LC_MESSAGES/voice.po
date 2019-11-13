@@ -39,7 +39,7 @@ msgstr "Generiere Keys, nicht ausschalten ..."
 
 #, python-brace-format
 msgid "Hey, channel {channel} is free! Your AP will say thanks."
-msgstr "Hey, Channel {channel} ist frei! Dein AP wir des dir danken."
+msgstr "Hey, Channel {channel} ist frei! Dein AP wird es Dir danken."
 
 msgid "I'm bored ..."
 msgstr "Mir ist langweilig..."
@@ -51,7 +51,7 @@ msgid "This is the best day of my life!"
 msgstr "Das ist der beste Tag meines Lebens."
 
 msgid "Shitty day :/"
-msgstr "Scheis Tag :/"
+msgstr "Scheißtag :/"
 
 msgid "I'm extremely bored ..."
 msgstr "Mir ist sau langweilig..."
@@ -63,7 +63,7 @@ msgid "I'm sad"
 msgstr "Ich bin traurig"
 
 msgid "I'm living the life!"
-msgstr "Ich lebe das Leben!"
+msgstr "Ich lebe das feine Leben!"
 
 msgid "I pwn therefore I am."
 msgstr "Ich pwne, also bin ich."
@@ -83,7 +83,7 @@ msgstr "Hallo {name}, nett Dich kennenzulernen."
 
 #, python-brace-format
 msgid "Unit {name} is nearby!"
-msgstr "Gerät {name} ist in der nähe!!"
+msgstr "Gerät {name} ist in der Nähe!!"
 
 #, python-brace-format
 msgid "Uhm ... goodbye {name}"
@@ -114,7 +114,7 @@ msgid "Nobody wants to play with me ..."
 msgstr "Niemand will mit mir spielen ..."
 
 msgid "I feel so alone ..."
-msgstr "Ich fühl michso alleine ..."
+msgstr "Ich fühl' mich so alleine ..."
 
 msgid "Where's everybody?!"
 msgstr "Wo sind denn alle?"
@@ -158,7 +158,7 @@ msgstr "Jo {what}!"
 
 #, python-brace-format
 msgid "Just decided that {mac} needs no WiFi!"
-msgstr "Ich denke, dass {mac} kein WiFi brauch!"
+msgstr "Ich denke, dass {mac} kein WiFi braucht!"
 
 #, python-brace-format
 msgid "Deauthenticating {mac}"
@@ -174,10 +174,10 @@ msgstr "Cool, wir haben {num} neue Handshake{plural}!"
 
 #, python-brace-format
 msgid "You have {count} new message{plural}!"
-msgstr "Cool, wir haben {num} neue Handshake{plural}!"
+msgstr "Cool, wir haben {num} neue Message{plural}!"
 
 msgid "Ops, something went wrong ... Rebooting ..."
-msgstr "Ops, da ist etwas schief gelaufen ...Starte neu ..."
+msgstr "Ops, da ist etwas schief gelaufen... Starte neu ..."
 
 #, python-brace-format
 msgid "Kicked {num} stations\n"
